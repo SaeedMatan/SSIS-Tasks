@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DataflowTask1", "DataflowTask1.dtproj", "{15781D3C-F9D1-455C-B590-681C2F86D601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15781D3C-F9D1-455C-B590-681C2F86D601}.Development|Default.ActiveCfg = Development
+		{15781D3C-F9D1-455C-B590-681C2F86D601}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1BE06C-1239-4102-8850-FA6AC2458250}
+	EndGlobalSection
+EndGlobal

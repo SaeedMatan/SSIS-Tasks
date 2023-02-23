@@ -1,0 +1,17 @@
+DepartmentID,Name,GroupName,ModifiedDate,Copy of Name,Copy of GroupName,Copy of ModifiedDate,Copy of DepartmentID
+1,Engineering,Research and Development,4/30/2008 0:00,Engineering,Research and Development,4/30/2008 0:00,1
+2,Tool Design,Research and Development,4/30/2008 0:00,Tool Design,Research and Development,4/30/2008 0:00,2
+3,Sales,Sales and Marketing,4/30/2008 0:00,Sales,Sales and Marketing,4/30/2008 0:00,3
+4,Marketing,Sales and Marketing,4/30/2008 0:00,Marketing,Sales and Marketing,4/30/2008 0:00,4
+5,Purchasing,Inventory Management,4/30/2008 0:00,Purchasing,Inventory Management,4/30/2008 0:00,5
+6,Research and Development,Research and Development,4/30/2008 0:00,Research and Development,Research and Development,4/30/2008 0:00,6
+7,Production,Manufacturing,4/30/2008 0:00,Production,Manufacturing,4/30/2008 0:00,7
+8,Production Control,Manufacturing,4/30/2008 0:00,Production Control,Manufacturing,4/30/2008 0:00,8
+9,Human Resources,Executive General and Administration,4/30/2008 0:00,Human Resources,Executive General and Administration,4/30/2008 0:00,9
+10,Finance,Executive General and Administration,4/30/2008 0:00,Finance,Executive General and Administration,4/30/2008 0:00,10
+11,Information Services,Executive General and Administration,4/30/2008 0:00,Information Services,Executive General and Administration,4/30/2008 0:00,11
+12,Document Control,Quality Assurance,4/30/2008 0:00,Document Control,Quality Assurance,4/30/2008 0:00,12
+13,Quality Assurance,Quality Assurance,4/30/2008 0:00,Quality Assurance,Quality Assurance,4/30/2008 0:00,13
+14,Facilities and Maintenance,Executive General and Administration,4/30/2008 0:00,Facilities and Maintenance,Executive General and Administration,4/30/2008 0:00,14
+15,Shipping and Receiving,Inventory Management,4/30/2008 0:00,Shipping and Receiving,Inventory Management,4/30/2008 0:00,15
+16,Executive,Executive General and Administration,4/30/2008 0:00,Executive,Executive General and Administration,4/30/2008 0:00,16
